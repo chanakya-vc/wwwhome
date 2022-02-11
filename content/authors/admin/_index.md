@@ -27,13 +27,13 @@ education:
   courses:
   - course: PhD in Electrical Engineering
     institution: Boston University
-    year: 2021-Present
+    year: Pursuing
   - course: MS in Electrical Engineering
     institution: North Carolina State University
-    year: 2019-2021
+    year: 2021
   - course: BE in Electronics and Communications Engineering
     institution: NSIT, Delhi University
-    year: 2014-2018
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
