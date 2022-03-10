@@ -33,11 +33,6 @@ education:
     year: 2021
   - course: B.E. in Electronics and Communications Engineering
     institution: Delhi University
-=======
-  - course: BE in Electronics and Communications Engineering
-    institution: NSIT, Delhi University
->>>>>>> parent of cb9fb13... Changed avatar and added bio
-    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
