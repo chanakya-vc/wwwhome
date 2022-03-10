@@ -7,7 +7,7 @@
 
 theme_day: minimal
 #day_night: true
-font: 'Mr Robot'
+font: ''
 font_size: L
 
 # SEO
