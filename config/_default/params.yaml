@@ -6,7 +6,7 @@
 # Appearance
 
 theme_day: minimal
-day_night: true
+#day_night: true
 font: "Cyberpunk"
 font_size: L
 
