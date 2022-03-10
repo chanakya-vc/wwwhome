@@ -42,18 +42,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:vchoudh@bu.edu"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/chanakya-vc
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/vchow96
+  link: https://www.linkedin.com/in/vchow96
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,7 +71,7 @@ highlight_name: true
 
 
 I am a first year Ph.D. student at Boston University and am advised by [Dr. Vivek Goyal](https://www.vivekgoyal.org) as part of the Signal Transformation and Information Representation Group(STIR). 
-My research is centered around solving Inverse Problems in Computational Imaging using Deep Learning Methods. In particular, I am working on developing algorithms that help process data from an Electron Microscope to generate better and more meaningful images to aid in material analysis. 
+My research is centered around solving Inverse Problems in Computational Imaging using Deep Learning Methods. In particular, I am working on developing algorithms that help process data from an Scanning Tunnelling Microscope to generate better and more meaningful images to aid in material analysis. 
 
 
 
