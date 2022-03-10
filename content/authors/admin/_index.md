@@ -27,11 +27,16 @@ education:
   courses:
   - course: PhD in Electrical Engineering
     institution: Boston University
+    year: Pursuing
   - course: MS in Electrical Engineering
     institution: North Carolina State University
     year: 2021
-  - course: BE in Electronics and Communications Engineering
+  - course: B.E. in Electronics and Communications Engineering
     institution: Delhi University
+=======
+  - course: BE in Electronics and Communications Engineering
+    institution: NSIT, Delhi University
+>>>>>>> parent of cb9fb13... Changed avatar and added bio
     year: 2018
 
 # Social/Academic Networking
@@ -69,9 +74,13 @@ email: ""
 highlight_name: true
 ---
 
+<<<<<<< HEAD
 I am a first year Ph.D. student at Boston University and am advised by [Dr. Vivek Goyal](https://www.vivekgoyal.org) as part of the Signal Transformation and Information Representation Group(STIR). 
 My research is centered around solving Inverse Problems in Computational Imaging using Deep Learning Methods. In particular, I am working on developing algorithms that help process data from an Electron Microscope to generate better and more meaningful images to aid in material analysis. 
 
 
+=======
+I am a first year Ph.D. student at Boston University and am being advised by Dr. Vivek Goyal. 
+>>>>>>> parent of cb9fb13... Changed avatar and added bio
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
