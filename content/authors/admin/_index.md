@@ -27,10 +27,10 @@ education:
   courses:
   - course: Ph.D. in Electrical Engineering
     institution: Boston University
-    year: Pursuing
+
   - course: MS in Electrical Engineering
     institution: North Carolina State University
-    year: 2021
+
   - course: B.E. in Electronics and Communications Engineering
     institution: Delhi University
 
@@ -75,4 +75,4 @@ My research is centered around solving Inverse Problems in Computational Imaging
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
