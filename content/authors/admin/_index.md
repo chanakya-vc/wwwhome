@@ -76,4 +76,4 @@ My research is centered around solving Inverse Problems in Computational Imaging
 Beyond research I really love to run and go on hikes. I also have a lot of interest in Nature Photography and have posted some of my favourite photos that I have clicked in the Gallery section.  
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/PhD_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/PhD_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
