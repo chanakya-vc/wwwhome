@@ -9,7 +9,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Reseach
 subtitle: ''
 
 content:
@@ -32,8 +32,8 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
-  columns: '2'
+  view: compact
+  columns: '1'
 ---
 
 {{% callout note %}}
