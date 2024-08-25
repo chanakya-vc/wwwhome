@@ -10,6 +10,6 @@ content:
   filter_default: 0
 design:
   columns: "1"
-  view: showcase
+  view: list
   flip_alt_rows: false
 ---
