@@ -73,7 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-{style="font-size: 1.2rem; color: #FFB76B;}
 I am a fourth year Ph.D. student at Boston University and am advised by [Dr. Vivek Goyal](https://www.vivekgoyal.org) as part of the Signal Transformation and Information Representation(STIR) Group. 
 My research is centered around solving Inverse Problems in Computational Imaging using Deep Learning Methods. In particular, I am working on developing algorithms that help process data from an Scanning Tunnelling Microscope to generate better and more meaningful images to aid in material analysis. 
 
