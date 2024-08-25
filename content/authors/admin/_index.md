@@ -14,13 +14,13 @@ organizations:
   url: https://www.bu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Making Computers love and understand each other.
+bio: Making Machines love and understand each other.
 
 # Interests to show in About widget
 interests:
+- Computational Imaging
 - Inverse Problems
 - Machine Learning
-- Computational Imaging
 
 # Education to show in About widget
 education:
