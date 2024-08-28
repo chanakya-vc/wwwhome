@@ -1,5 +1,5 @@
 ---
-title: "Quantitave Imaging for Particle Beam Microscopy (\\emph{Mnauscript under preparation})"
+title: "Quantitave Imaging for Particle Beam Microscopy"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -34,7 +34,7 @@ publication_types: ["3"]
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: \\emph{Manuuscript under preparation} Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 #tags: []
 
