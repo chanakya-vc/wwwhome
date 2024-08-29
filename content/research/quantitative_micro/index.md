@@ -34,7 +34,7 @@ publication_types: ["3"]
 
 
 # Summary. An optional shortened abstract.
-summary:   New quantitative and physics-informed methods for secondary electron imaging in particle beam microscopy (*Manuscript in preparation* ).<span style="color:blue">Read more...</span>
+summary: Developed new quantitative and physics-informed techniques for secondary electron imaging in particle beam microscopy, enhancing material analysis and segmentation processes. These methods were applied to improve semiconductor device characterization and metrology.(*Manuscript in preparation* ).<span style="color:blue">Read more...</span>
 
 #tags: []
 
