@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code
+title: SpaceX Hyperloop Pod design Challenge
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning

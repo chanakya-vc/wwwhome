@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code
+title: ADMM Optimization based Lasso and Ridge Regression
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
