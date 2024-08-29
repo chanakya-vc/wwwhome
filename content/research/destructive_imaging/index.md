@@ -1,20 +1,22 @@
 ---
-title: "An example conference paper"
-
+title: "Destructive Imaging in Particle Beam Microscopy"
+#subtitle: "* Manuscript in preparation *"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-#authors:
-#- admin
-#- Robert Ford
+authors:
+- Vaibhav Choudhary
+- Akshay Agarwal
+- Vivek Goyal
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+ - "Boston University"
+ - "Boston University"
+ - "Boston University"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+#date: "2013-07-01T00:00:00Z"
+#doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,21 +25,21 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+# publication: In *Wowchemy Conference*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Develop new imaging techniques to minimize surface damage and sample modification when imaging under a high dose, resulting in low-noise, high-fidelity images.<span style="color:blue">Read more...</span>
 
-tags: []
+#tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -56,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Particle Beam Microscopy"
   focal_point: ""
   preview_only: false
 
@@ -65,23 +67,16 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+#projects:
+#- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!In this paper, we discuss a new physics-inspired forward process for imaging samples made from two different materials under a PBM. Under this model, the SE yield is taken to be a measurement of a sample property at that scan location and is distributed as a two-component mixture. We show that this mixture distribution is generally more informative about the SE yield than using a Poisson distribution with a mean given by the beam's convolution with the sample, as has been done conventionally.  We further leverage this mixture model to derive new estimators for edge localization. 
+Our new model allows us to **quantitatively** give the boundary between the two materials on a grid as opposed to the prior work on post-processing and qualitative improvements on images obtained from the SE counts. We show that the edge position estimation using the Mixture-Model-based estimators can be done more accurately than the beam width used for scanning the sample. We also compare the new edge estimators to an estimator based on the previous convolution-based forward model and show that our new estimators have lesser variance in edge localization on datasets acquired from an SEM. >
