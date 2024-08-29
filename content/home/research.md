@@ -35,8 +35,8 @@ design:
   view: compact
   columns: '1'
   background:
-   color : "navy"
-   gradient_start: "DeepSkyblue"
-   gradient_end: "SkyBlue"	  	
+   # color : "navy"
+   gradient_start: F7EFE5
+   gradient_end: C8A1E0	  	
 ---
 
