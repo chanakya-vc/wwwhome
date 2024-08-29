@@ -34,8 +34,9 @@ design:
   # Choose a view for the listings:
   view: compact
   columns: '1'
-  color : "navy"
-  gradient_start: "DeepSkyblue"
-  gradient_end: "SkyBlue"	  	
+  background:
+   color : "navy"
+   gradient_start: "DeepSkyblue"
+   gradient_end: "SkyBlue"	  	
 ---
 
