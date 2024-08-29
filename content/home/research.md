@@ -35,7 +35,7 @@ design:
   view: compact
   columns: '1'
   background:
-   color : C8A1E0
+   color : #C8A1E0
    gradient_start: F7EFE5
    gradient_end: C8A1E0	  	
 ---
