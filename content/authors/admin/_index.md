@@ -74,7 +74,7 @@ highlight_name: true
 ---
 
 I am a fourth year Ph.D. student at Boston University and am advised by [Dr. Vivek Goyal](https://www.vivekgoyal.org) as part of the Signal Transformation and Information Representation(STIR) Group.  
-My research is centered around developing model-based learning solutions for inverse problems in computational imaging and machine learning. 
+ I am interested in developing model-based learning solutions for inverse problems in computational imaging and machine learning. My current research focuses on developing forward models and physics-based estimators for particle beam microscopy with a focus on material analysis and edge detection for segmentation applied to semiconductor device characterization and metrology.   
 
 
 

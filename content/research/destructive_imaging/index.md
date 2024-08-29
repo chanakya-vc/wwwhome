@@ -34,7 +34,7 @@ publication_types: ["0"]
 
 
 # Summary. An optional shortened abstract.
-summary: Develop new imaging techniques to minimize surface damage and sample modification when imaging under a high dose, resulting in low-noise, high-fidelity images.<span style="color:blue">Read more...</span>
+summary: Develop new imaging techniques to minimize surface damage and sample modification when imaging under a high dose, resulting in low-noise, high-fidelity images.
 
 #tags: []
 
