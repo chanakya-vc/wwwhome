@@ -16,7 +16,7 @@ author_notes:
  - "Boston University"
 
 #date: "2013-07-01T00:00:00Z"
-doi: ""
+#doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -28,13 +28,13 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Wowchemy Conference*
-#publication_short: In *ICW*
+# publication: In *Wowchemy Conference*
+# publication_short: In *ICW*
 
 
 
 # Summary. An optional shortened abstract.
-summary:   New quantitative and physics-informed methods for secondary electron imaging in particle beam microscopy {*Manuscript in preparation* }.
+summary:   New quantitative and physics-informed methods for secondary electron imaging in particle beam microscopy (*Manuscript in preparation* ).lkjsdbvkbaskvdb
 
 #tags: []
 
