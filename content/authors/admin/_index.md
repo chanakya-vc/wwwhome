@@ -78,4 +78,4 @@ My research is centered around developing model-based learning solutions for inv
 
 
 
-{{< icon name="download" pack="fas" >}} My full resume is available {{< staticref "uploads/PhD_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} My full resume is available {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
