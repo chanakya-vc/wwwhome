@@ -34,7 +34,7 @@ publication_types: ["3"]
 
 
 # Summary. An optional shortened abstract.
-summary:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. * Manuscript in preparation *
+summary:   New quantitative and physics-informed methods for secondary electron imaging in particle beam microscopy {* Manuscript in preparation * }.
 
 #tags: []
 
