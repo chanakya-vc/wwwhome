@@ -29,13 +29,13 @@ content:
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-  order: asc
+  order: desc
 design:
   # Choose a view for the listings:
   view: compact
   columns: '1'
   background:
-   color : F7EFE5
+   color : C8A1E0
    gradient_start: F7EFE5
    gradient_end: C8A1E0	  	
 ---
