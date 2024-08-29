@@ -19,7 +19,7 @@ author_notes:
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,7 +34,7 @@ publication_types: ["3"]
 
 
 # Summary. An optional shortened abstract.
-summary:   New quantitative and physics-informed methods for secondary electron imaging in particle beam microscopy (*Manuscript in preparation* ). 
+summary:   New quantitative and physics-informed methods for secondary electron imaging in particle beam microscopy (*Manuscript in preparation* ).<span style="color:blue">Read more...</span>
 
 #tags: []
 
@@ -78,5 +78,4 @@ image:
 slides: ""
 ---
 
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+In this paper, we discuss a new physics-inspired forward process for imaging samples made from two different materials under a PBM. Under this model, the SE yield is taken to be a measurement of a sample property at that scan location and is distributed as a Truncated two-component Poisson Mixture. We show that this mixture distribution is generally more informative about the SE yield than using a Poisson distribution with a mean given by the beam's convolution with the sample, as has been done conventionally.  We further leverage this mixture model to derive new estimators for edge localization. Thus, our new model allows us to quantitatively give the boundary between the two materials on a grid as opposed to the prior work on post-processing and qualitative improvements on images obtained from the SE counts. We show that the edge position estimation using the Mixture-Model-based estimators can be done more accurately than the beam width used for scanning the sample. We also compare the new edge estimators to an estimator based on the previous convolution-based forward model and show that our new estimators have lesser variance in edge localization on datasets acquired from an SEM.
