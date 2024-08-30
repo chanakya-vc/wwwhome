@@ -15,14 +15,14 @@ title: About me
 
 design:
  background:
-  image:
-   filename: bg.jpg
-   #filters:
-    #brightness: 0.7
-   #size: cover
-   #position: center
-   #paralax: true
-   #text_color_light: true
+  color:"blue"
+   
+   # filters:
+    # brightness: 0.7
+   # size: cover
+   # position: center
+   # paralax: true
+   # text_color_light: true
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
