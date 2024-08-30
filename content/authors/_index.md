@@ -8,4 +8,7 @@ cascade:
   _build:
     render: never
     list: always
+design:
+  background:
+   image:bg.jpg
 ---
