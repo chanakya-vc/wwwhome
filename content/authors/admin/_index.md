@@ -68,9 +68,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-design:
- background:
-  color:"navy"
+
 
 
 # Highlight the author in author lists? (true/false)

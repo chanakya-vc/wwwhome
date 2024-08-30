@@ -13,7 +13,9 @@ weight: 10
 
 title: About me
 
-
+design:
+  background:
+   color:"navy"
    
    # filters:
     # brightness: 0.7
