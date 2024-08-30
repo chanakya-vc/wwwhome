@@ -10,5 +10,6 @@ cascade:
     list: always
 design:
   background:
-   image:bg.jpg
+    image:
+      filename: bg.jpg
 ---
