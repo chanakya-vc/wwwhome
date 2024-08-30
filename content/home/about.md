@@ -29,5 +29,5 @@ author: admin
 design:
   background:
     image:
-      filename: bg.jpg
+      filename:bg.jpg
 ---
