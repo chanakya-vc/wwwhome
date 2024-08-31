@@ -30,7 +30,7 @@ design:
   background:
     #color: "navy"
     image:
-     filename: background.jpg
+     filename: tn.png
     size: cover
     position: center
     parallax: true
