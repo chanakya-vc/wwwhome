@@ -5,7 +5,7 @@
 
 title: My home on the WWW # Website name
 baseurl: 'vaibhavchoudhary.com' # Website URL
-copyright: '© 2022-2023 Vaibhav Choudhary' # Footer text, e.g. '© {year} Me'
+copyright: '© 2024-2025 Vaibhav Choudhary' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -68,3 +68,7 @@ related:
       weight: 70
 security:
   _merge: deep
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_

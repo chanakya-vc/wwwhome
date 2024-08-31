@@ -26,13 +26,4 @@ title: About me
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
-design:
-  background:
-    #color: "navy"
-    image:
-     filename: background.jpg
-    size: cover
-    position: center
-    parallax: true
-    text_color_light: true
 ---
