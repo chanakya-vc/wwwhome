@@ -29,7 +29,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
@@ -71,4 +71,4 @@ security:
   funcs:
     getenv:
       - ^HUGO_
-      - ^WC_
+      - '^WC_POST_CSS'
