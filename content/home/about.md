@@ -30,5 +30,9 @@ design:
   background:
     #color: "navy"
     image:
-     filename: background
+     filename: background.jpg
+    size: cover
+    position: center
+    parallax: true
+    text_color_light: true
 ---
