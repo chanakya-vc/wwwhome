@@ -28,6 +28,5 @@ title: About me
 author: admin
 design:
   background:
-    image:
-      filename:bg.jpg
+    color:"navy"
 ---
