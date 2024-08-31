@@ -30,5 +30,5 @@ design:
   background:
     #color: "navy"
     image:
-     filename: background.jpeg
+     filename: background
 ---
