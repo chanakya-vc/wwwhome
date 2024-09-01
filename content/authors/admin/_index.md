@@ -59,6 +59,11 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/vchow96
 
+#- icon: cv
+#  icon_pack: ai
+#  link:  uploads/resume.pdf
+
+
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -74,9 +79,13 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I’m a fourth-year Ph.D. student at Boston University, where I work under the guidance of [Dr. Vivek Goyal](https://www.vivekgoyal.org) in the Signal Transformation and Information Representation (STIR) Group. My research is centered around developing model-based learning solutions for inverse problems in computational imaging and machine learning. Currently, I am focused on creating forward models and physics-based estimators for particle beam microscopy, particularly in the areas of material analysis and edge detection for segmentation, with applications in semiconductor device characterization and metrology.
-
-Outside of my research, I’m passionate about running and hiking. I’m also an aspiring astronomer with a growing interest in astrophotography!
 
 
-{{< icon name="download" pack="fas" >}} My full resume is available {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
+I’m a fourth-year Ph.D. student at Boston University, where I work under the mentorship of [Dr. Vivek Goyal](https://www.vivekgoyal.org) in the Signal Transformation and Information Representation (STIR) Group. My research focuses on developing model-based learning solutions for inverse problems in computational imaging and machine learning. Currently, I am focused on creating forward models and physics-based estimators for particle beam microscopy, particularly in the areas of material analysis and edge detection for segmentation, with applications in semiconductor device characterization and metrology.
+
+Outside of my research, I’m passionate about running and hiking. I’m also an aspiring astronomer with a growing interest in astrophotography! The background image on this page is a photo of the aurora borealis that I captured in Gloucester, MA, during a solar storm in early 2024.
+
+
+<!--- {{< icon name="download" pack="fas" >}} My full resume is available {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}. --> 
+
+My full CV is available here {{< staticref "uploads/resume.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}

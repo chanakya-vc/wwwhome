@@ -14,16 +14,25 @@ weight: 10
 title: About me
 
 
-   
-   # filters:
-    # brightness: 0.7
-   # size: cover
-   # position: center
-   # paralax: true
-   # text_color_light: true
-
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+design:
+   background:
+      image : bg_e.jpg
+      image_size : actual
+      image_position : center
+      image_parallax : false
+      image_darken: 1
+      text_color_light : true
+      color: "black"
+   
+   spacing:
+    padding: ["5px", "5px", "5px", "5px"]
+
+
+   
+
+      #color : "yellow"
 ---

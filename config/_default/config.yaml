@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: My home on the WWW # Website name
+title: Welcome to my home on the WWW # Website name
 baseurl: 'vaibhavchoudhary.com' # Website URL
 copyright: '© 2024-2025 Vaibhav Choudhary' # Footer text, e.g. '© {year} Me'
 

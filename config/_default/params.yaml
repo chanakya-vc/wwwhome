@@ -14,7 +14,7 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: ''
+org_name: 'Boston University'
 description: ''
 twitter: ''
 
@@ -109,7 +109,7 @@ abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
-  shape: circle
+  shape: square
 publications:
   date_format: January 2006
   citation_style: apa
@@ -156,3 +156,6 @@ cms:
 icon:
   pack:
     ai: true
+extensions:
+academicons:
+    enable: true
