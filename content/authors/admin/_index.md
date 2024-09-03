@@ -3,7 +3,7 @@
 title: Vaibhav Choudhary
 
 # Status emoji
-status:
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -81,7 +81,7 @@ highlight_name: true
 ---
 
 
-I’m a fourth-year Ph.D. student at Boston University, where I work under the mentorship of [Dr. Vivek Goyal](https://www.vivekgoyal.org) in the Signal Transformation and Information Representation (STIR) Group. My research focuses on developing model-based learning solutions for inverse problems in computational imaging and machine learning. Currently, I am focused on creating forward models and physics-based estimators for particle beam microscopy, particularly in the areas of material analysis and edge detection for segmentation, with applications in semiconductor device characterization and metrology.
+I’m a fourth-year Ph.D. student at Boston University, where I work under the mentorship of [Dr. Vivek Goyal](https://www.vivekgoyal.org) in the Signal Transformation and Information Representation (STIR) Group. My research focuses on developing model-based machine-learning solutions for inverse problems in computational imaging. Currently, I am focused on creating forward models and physics-based estimators for particle beam microscopy, particularly in the areas of material analysis and edge detection for segmentation, with applications in semiconductor device characterization and metrology.
 
 Outside of my research, I’m passionate about running and hiking. I’m also an aspiring astronomer with a growing interest in astrophotography! The background image on this page is a photo of the aurora borealis that I captured in Gloucester, MA, during a solar storm in early 2024.
 

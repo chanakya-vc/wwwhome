@@ -15,11 +15,11 @@ author_notes:
  - "Boston University"
  - "Boston University"
 
-#date: "2013-07-01T00:00:00Z"
+date: "2023-07-01T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,7 +34,7 @@ publication_types: ["0"]
 
 
 # Summary. An optional shortened abstract.
-summary: Developed new quantitative and physics-informed techniques for secondary electron imaging in particle beam microscopy, enhancing material analysis and segmentation processes. These methods were applied to improve semiconductor device characterization and metrology.(*Manuscript in preparation* ).<span style="color:blue">Read more...</span>
+summary:  (___Manuscript in preparation___) Developed new quantitative and physics-informed techniques for secondary electron imaging in particle beam microscopy, enhancing material analysis and segmentation processes. These methods were applied to improve semiconductor device characterization and metrology.<span style="color:blue">Read more...</span>
 
 #tags: []
 

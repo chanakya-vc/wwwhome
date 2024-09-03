@@ -32,12 +32,17 @@ content:
   order: asc
 design:
   # Choose a view for the listings:
-  view: compact
+  view: 5
   columns: '1'
+  flip_alt_rows: false
   background:
    # color : 
    gradient_start: "#F7EFE5"
    gradient_end: "#C8A1E0"
-   gradient_angle: 180	  	
+   gradient_angle: 180
+   spacing:
+    padding: ["20px", "20px", "20px", "20px"]
+
+
 ---
 

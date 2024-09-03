@@ -1,6 +1,6 @@
 ---
 title: "Active Interposer-based Multi-Chiplet Architectures"
-#subtitle: "* Manuscript in preparation *"
+# subtitle: "* Manuscript in preparation *"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
@@ -21,11 +21,11 @@ author_notes:
  - "University of Wisconsin-Madison"
  - "Washington State University, Pullman"
 
-#date: "2013-07-01T00:00:00Z"
+date: "2024-05-01T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -40,7 +40,7 @@ publication_types: ["0"]
 
 
 # Summary. An optional shortened abstract.
-summary: <span style="color:blue">Read more...</span>
+summary: _Under Review_
 
 #tags: []
 
@@ -64,7 +64,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "Particle Beam Microscopy"
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -83,6 +83,3 @@ image:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-<!In this paper, we discuss a new physics-inspired forward process for imaging samples made from two different materials under a PBM. Under this model, the SE yield is taken to be a measurement of a sample property at that scan location and is distributed as a two-component mixture. We show that this mixture distribution is generally more informative about the SE yield than using a Poisson distribution with a mean given by the beam's convolution with the sample, as has been done conventionally.  We further leverage this mixture model to derive new estimators for edge localization. 
-Our new model allows us to **quantitatively** give the boundary between the two materials on a grid as opposed to the prior work on post-processing and qualitative improvements on images obtained from the SE counts. We show that the edge position estimation using the Mixture-Model-based estimators can be done more accurately than the beam width used for scanning the sample. We also compare the new edge estimators to an estimator based on the previous convolution-based forward model and show that our new estimators have lesser variance in edge localization on datasets acquired from an SEM. >
