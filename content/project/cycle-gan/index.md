@@ -17,7 +17,7 @@ links:
 - icon: readme
   icon_pack: fab
   name: Project-Report
-  url: /projects/cycle-gan/report.pdf
+  url: "/project/cycle-gan/report.pdf"
 url_code: ""
 url_pdf: ""
 url_slides: ""
